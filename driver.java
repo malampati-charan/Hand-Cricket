@@ -62,6 +62,7 @@ public class driver {
         System.out.println("I'll Bowl First!");
         p1.batting();
         System.out.println("I'll Chase Your Score in No Time");
+        p1.bowling();
       }
     }
 
